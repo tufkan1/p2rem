@@ -3,7 +3,7 @@
 const pxValue = process.argv[2];
 
 if (!pxValue) {
-    console.log('Usage: p2r <px-value>');
+    console.log('Usage: p2rem <px-value>');
     process.exit(1);
 }
 
