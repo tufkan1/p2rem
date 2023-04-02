@@ -1,0 +1,28 @@
+{
+  "name": "p2rem",
+  "version": "1.0.2",
+  "description": "Get px to rem value",
+  "main": "index.js",
+  "scripts": {
+    "test": "p2r"
+  },
+  "bin": {
+    "p2rem": "./index.js"
+  },
+  "author": "Tufan Gökmenler <info@tufangokmenler.com> (https://tufangokmenler.com)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tufkan1/p2rem.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tufkan1/p2rem/issues"
+  },
+  "keywords": [
+    "p2rem",
+    "px",
+    "rem",
+    "convert",
+    "convertor"
+  ],
+  "license": "MIT"
+}
